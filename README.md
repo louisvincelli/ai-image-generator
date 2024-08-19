@@ -2,5 +2,5 @@
 
 <br />
 <p className="justify-center items-center">
-    <img src="src/components/Assets/screenshot.png" alt="screenshot" >
+    <img src="src/Components/Assets/screenshot.png" alt="screenshot" >
   </a>
